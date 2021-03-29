@@ -1,0 +1,11 @@
+{
+  "name": "promises-rm-bug",
+  "version": "1.0.0",
+  "description": "Reproducer for linux fsPromises.rm not a function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Patrick",
+  "license": "UPL-1.0"
+}
